@@ -40,7 +40,7 @@ Our model captures the variability of demand using only 30% of the data.
 
 ### Please Note: 
 - _Data about BT's infrastructure is unavailable due to privacy concerns._
-- _Random seeds can generate different results at each run; irrespective of the minor changes, the performance gains for our model compared to heuristics remain 4x._
+- _Randomness can generate different results at each run; irrespective of the minor changes, the performance gains for our model compared to heuristics remain 4x._
 
 ### Requirements 
 - Python 3.10.12
