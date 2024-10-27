@@ -54,13 +54,13 @@ Our model captures the variability of demand using only 30% of the data.
 - node2vec - 0.5.0
 
 ### References
-- A. Dwivedi and R. E. Wagner, “Traffic Model for USA Long-distance Optical Network,” in Optical Fiber Communication Conference
+- [1] A. Dwivedi and R. E. Wagner, “Traffic Model for USA Long-distance Optical Network,” in Optical Fiber Communication Conference
 (OFC), 2000.
-- S. K. Patri, A. Autenrieth, J.-P. Elbers, and C. M. Machuca, “Planning Optical Networks for Unexpected Traffic Growth,” in European
+- [2] S. K. Patri, A. Autenrieth, J.-P. Elbers, and C. M. Machuca, “Planning Optical Networks for Unexpected Traffic Growth,” in European
 Conference on Optical Communication (ECOC), 2020.
-- A. Grover and J. Leskovec, “node2vec: Scalable Feature Learning for Networks,” in Knowledge Discovery and Data Mining(KDD), 2016.
-- A. Ahuja, S. N. Herzberg, A. Rafel, P. Wright, A. Lord, and S. J. Savory, “Topology-Driven Edge Predictions with Graph Machine
+- [3] A. Grover and J. Leskovec, “node2vec: Scalable Feature Learning for Networks,” in Knowledge Discovery and Data Mining(KDD), 2016.
+- [4]  A. Ahuja, S. N. Herzberg, A. Rafel, P. Wright, A. Lord, and S. J. Savory, “Topology-Driven Edge Predictions with Graph Machine
 Learning for Optical Network Growth,” in Optical Fiber Communication Conference (OFC), 2024.
-- “Data Center Map,” accessed Oct. 2024. [Online]. Available: https://www.datacentermap.com/
-- Office for National Statistics (ONS), “Population estimates for the UK, England, Wales, Scotland, and Northern Ireland: mid-2022,”
+- [5]  “Data Center Map,” accessed Oct. 2024. [Online]. Available: https://www.datacentermap.com/
+- [6] Office for National Statistics (ONS), “Population estimates for the UK, England, Wales, Scotland, and Northern Ireland: mid-2022,”
 Statistical Bulletin, released 26 March 2024. [Online]. Available: https://www.ons.gov.uk
